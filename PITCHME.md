@@ -1,5 +1,5 @@
 # slides
-### ｓide 1
+### slide 1
 Hello
 --
 Hi!
